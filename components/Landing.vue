@@ -447,9 +447,13 @@
 
           <div class="py-1">
             <b-card img-src="../assets/images/news/news 11.png" img-alt="Card image" img-left class="mb-3 border-0">
-              <b-card-text>
+              <b-card-text class="m-0">
                 <p style="color: #ED1C24; font-size: 14px" class="m-0">F1 </p>
+              </b-card-text>
+              <b-card-text class="m-0">
                 <p class="m-0" style="font-size: 14px">31 Maret 2021 </p>
+              </b-card-text>
+              <b-card-text>
                 <p style="color: #ED1C24; font-size: 14px" class="m-0">Kualifikasi Piala Dunia 2022</p>
               </b-card-text>
               <b-card-text class="font-weight-bolder" style="font-size: 16px">Hamilton Menangi Persaingan Sengit atas Verstappen</b-card-text>

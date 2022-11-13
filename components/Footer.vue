@@ -16,34 +16,34 @@
           </b-img>
           <b-card-text class="ml-4 pl-5 pt-3 text-white">
             Conect with us: <br>
-            <b-row class="py-3">
-              <b-col>
-                <b-button size="md" variant="light" class="px-3 pt-0 py-1 pb-2">
-                  <img src="../assets/images/icons/facebook.svg" alt="facebook">
-                </b-button>
-              </b-col>
-              <b-col>
-                <b-button size="md" variant="light">
-                  <b-icon-twitter aria-label="twitter" style="color: #070D59;"></b-icon-twitter>
-                </b-button>
-              </b-col>
-              <b-col>
-                <b-button size="md" variant="light">
-                  <b-icon-instagram aria-label="instagram" style="color: #070D59;"></b-icon-instagram>
-                </b-button>
-              </b-col>
-              <b-col>
-                <b-button size="md" variant="light">
-                  <b-icon-youtube aria-label="youtube" style="color: #070D59;"></b-icon-youtube>
-                </b-button>
-              </b-col>
-              <b-col>
-                <b-button size="md" variant="light" class="px-2 pt-0 py-1 pb-2">
-                  <img src="../assets/images/icons/tiktok.svg" alt="tiktok" fluid>
-                </b-button>
-              </b-col>
-            </b-row>
           </b-card-text>
+          <b-row class="py-3 ml-4 pl-5">
+            <b-col lg="2" md="2" sm="6">
+              <b-button size="md" variant="light" class="px-3 pt-0 py-1 pb-2">
+                <img src="../assets/images/icons/facebook.svg" alt="facebook">
+              </b-button>
+            </b-col>
+            <b-col lg="2" md="2" sm="6">
+              <b-button size="md" variant="light">
+                <b-icon-twitter aria-label="twitter" style="color: #070D59;"></b-icon-twitter>
+              </b-button>
+            </b-col>
+            <b-col lg="2" md="2" sm="6">
+              <b-button size="md" variant="light">
+                <b-icon-instagram aria-label="instagram" style="color: #070D59;"></b-icon-instagram>
+              </b-button>
+            </b-col>
+            <b-col lg="2" md="2" sm="6">
+              <b-button size="md" variant="light">
+                <b-icon-youtube aria-label="youtube" style="color: #070D59;"></b-icon-youtube>
+              </b-button>
+            </b-col>
+            <b-col lg="2" md="2" sm="6">
+              <b-button size="md" variant="light" class="px-3 pt-0 py-1 pb-2">
+                <img src="../assets/images/icons/tiktok.svg" alt="tiktok" fluid>
+              </b-button>
+            </b-col>
+          </b-row>
         </b-col>
         <b-col cols="2" lg="2" md="2" sm="2">
           <ul style="list-style-type:none">

@@ -12,6 +12,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/sportstars.ico' }],
+    ssr: false
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -44,5 +45,9 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    babel: {
+    compact: true,
+    },
+  },
 }
